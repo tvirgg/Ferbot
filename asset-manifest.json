@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68877c1c.css",
+    "main.js": "/static/js/main.5d827247.js",
+    "static/js/787.81588d33.chunk.js": "/static/js/787.81588d33.chunk.js",
+    "static/media/Roadmap.png": "/static/media/Roadmap.7af998198effb1ef2596.png",
+    "static/media/grain.png": "/static/media/grain.b54f62de2e06b7bd3ed0.png",
+    "static/media/Background.png": "/static/media/Background.dbea9a12fd30b6898d28.png",
+    "static/media/Roadmap720.png": "/static/media/Roadmap720.2df797d626b28bc949d8.png",
+    "static/media/robotic_mob.png": "/static/media/robotic_mob.529cad51b1673a53288d.png",
+    "static/media/Roadmap480.png": "/static/media/Roadmap480.19a977bb2d4429eb2449.png",
+    "static/media/Subtract.png": "/static/media/Subtract.c613adc36289d4b9a1b7.png",
+    "static/media/team_desc.png": "/static/media/team_desc.b088df46c0c982afa0ff.png",
+    "static/media/robotic.png": "/static/media/robotic.533a0be591ca1e56b660.png",
+    "static/media/Roadmap320.png": "/static/media/Roadmap320.1e29ddc3d66d4a6a2487.png",
+    "static/media/team_mob.png": "/static/media/team_mob.bb56ae4282d446528455.png",
+    "static/media/About_circle.png": "/static/media/About_circle.8f9ab60b7ae513e6b26f.png",
+    "static/media/loading.mp4": "/static/media/loading.ee393be88e92a154aee3.mp4",
+    "static/media/wrapp_back.png": "/static/media/wrapp_back.e413f749ba654d0161c1.png",
+    "static/media/Wecan.png": "/static/media/Wecan.def12074f21322d6c447.png",
+    "static/media/Kharkiv_Tone.ttf": "/static/media/Kharkiv_Tone.6606d31e8d8c3e9f194b.ttf",
+    "static/media/Wecan_mob.png": "/static/media/Wecan_mob.ad83406d1327c1407ce9.png",
+    "static/media/Faq.png": "/static/media/Faq.61bbb2afe5a3397cd7c5.png",
+    "static/media/About_signature.png": "/static/media/About_signature.d625ad673e69d8645d8a.png",
+    "static/media/rules_light_sec.png": "/static/media/rules_light_sec.fd8e7cd6c2155af47a0f.png",
+    "static/media/rules_main.png": "/static/media/rules_main.2ac8de07038ca5bfa6a9.png",
+    "static/media/Faq720.png": "/static/media/Faq720.705bcf9b477dd1b8ff98.png",
+    "static/media/ds.svg": "/static/media/ds.f73c0f3cf2e794f121b50be9e9aa4eba.svg",
+    "static/media/tw.svg": "/static/media/tw.a4b11a5852b45c3f8a8172fbd0bee69c.svg",
+    "static/media/Faq480.png": "/static/media/Faq480.9845b3aa6b43223a1b4d.png",
+    "static/media/rules_light_first.png": "/static/media/rules_light_first.840c71f7f93042978e6b.png",
+    "static/media/wrapp_back480.png": "/static/media/wrapp_back480.c223a8ad30af183d8e67.png",
+    "index.html": "/index.html",
+    "main.68877c1c.css.map": "/static/css/main.68877c1c.css.map",
+    "main.5d827247.js.map": "/static/js/main.5d827247.js.map",
+    "787.81588d33.chunk.js.map": "/static/js/787.81588d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68877c1c.css",
+    "static/js/main.5d827247.js"
+  ]
+}
